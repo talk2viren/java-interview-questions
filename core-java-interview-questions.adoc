@@ -10,5 +10,12 @@ Java Streams :
 Input : {"apple","mango","banana","banana","kivi"}
 ```
 
+[source,java]
+----
+include::https://github.com/talk2viren/java-interview-questions-example/blob/main/src/main/java/com/example/java_interview_questions/JavaInterviewQuestionsApplication.java[tag=myMethod]
+----
+
+Click link:https://github.com/talk2viren/java-interview-questions-example/blob/main/src/main/java/com/example/java_interview_questions/JavaInterviewQuestionsApplication.java[here] to view the full file.
+
 
 Advance Experience (11 - 15 Years)
