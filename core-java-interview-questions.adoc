@@ -1,0 +1,14 @@
+**Core Java Interview Questions :
+
+Entry Level Experience (5 - 10 Years)
+
+Medium Experience (5 - 10 Years)
+
+Java Streams :
+1. Create a Java Stream to count duplicate element in ArrayList
+```
+Input : {"apple","mango","banana","banana","kivi"}
+```
+
+
+Advance Experience (11 - 15 Years)
