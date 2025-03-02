@@ -6,7 +6,7 @@ Medium Experience (5 - 10 Years)
 
 Java Streams :
 1. Create a Java Stream to count duplicate element in ArrayList
-```
+```java
 Input : {"apple","mango","banana","banana","kivi"}
 ```
 
