@@ -1,23 +1,17 @@
-**Core Java Interview Questions :
+== Core Java Interview Questions :
 
-Entry Level Experience (5 - 10 Years)
+=== Entry Level Experience (5 - 10 Years)
 
-Medium Experience (5 - 10 Years)
+### Medium Experience (5 - 10 Years)
 
-Java Streams :
-1. Create a Java Stream to count duplicate element in ArrayList
+== Topic : Java Streams :
 
-....
-Input : {"apple","mango","banana","banana","kivi"}
-Output : apple = 1, mango=1, banana=2, kivi=1
-....
+Q1. link:core-java/java-stream-interview-question.adoc#topic1[Create a Java Stream to count duplicate element in ArrayList (4 answers using Streams,Loop)]
 
-```java
+= List of Topics
 
-for(int i=0;i<10;i++){
-    System.out.println("insdie code >> "+i);
-}
+1. link:core-java/java-stream-interview-question.adoc#topic1[Topic1]
+2. link:core-java/java-stream-interview-question.adoctwo.adoc#topic2[Topic2]
+3. link:core-java/java-stream-interview-question.adoctwo.adoc#topic3[Topic3]
 
-```
-
-Advance Experience (11 - 15 Years)
+## Advance Experience (11 - 15 Years)
