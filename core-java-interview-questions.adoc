@@ -1,7 +1,7 @@
 = Core Java Interview Questions :
 :toc: right
 
-== Java Streams :
+== Java 8 : Streams
 
 . link:core-java/java-stream-interview-question.adoc#Q1[Create a Java Stream to count duplicate element in ArrayList]
 _(4 answers using Streams,Loop)_
