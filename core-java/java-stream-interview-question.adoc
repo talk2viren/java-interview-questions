@@ -42,10 +42,56 @@ for(int i=0;i<10;i++){
 [[Q2]]
 == Create a Java Program to reverse a String
 
+https://github.com/talk2viren/java-interview-questions-examples/blob/main/src/test/java/com/example/java_interview_questions/streams/ReverseString.java[Github Link]
+
+Example 1 :
 [source,java]
 ----
-System.out.println("Example for Topic 1");
+    public void example_1() {
+        String str = "virendra";
+
+        StringBuilder sb = new StringBuilder();
+        IntStream
+                .iterate(str.length() - 1, (x) -> x - 1)
+                .limit(str.length())
+                .mapToObj(x -> str.toCharArray()[x])
+                .forEach(x -> sb.append(x));
+
+        System.out.println(sb);
+    }
 ----
+
+Example 2 :
+----
+    public void example_2() {
+        String str = "my name is virendra";
+        StringBuilder builder = new StringBuilder();
+        Arrays.stream(str.split(" "))
+                .forEach(token -> {
+                    builder.insert(0, " " + token);
+                });
+
+        System.out.println(builder);
+    }
+----
+
+Example 3:
+
+----
+    public void example_3() {
+        String str = "my name is virendra";
+        StringTokenizer tokenizer = new StringTokenizer(str);
+
+        StringBuilder builder = new StringBuilder();
+        while (tokenizer.hasMoreTokens()) {
+            builder.insert(0, " " + tokenizer.nextToken());
+        }
+
+        System.out.println(builder);
+    }
+----
+
+
 :sectnums:
 [[Q3]]
 == Create a java program to Sort Employee Objects by first name then last name in ascending order.
