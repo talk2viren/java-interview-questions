@@ -1,17 +1,14 @@
-== Core Java Interview Questions :
+= Core Java Interview Questions :
 
 === Entry Level Experience (5 - 10 Years)
 
 ### Medium Experience (5 - 10 Years)
 
-== Topic : Java Streams :
+=== 1 : Java Streams :
 
-Q1. link:core-java/java-stream-interview-question.adoc#topic1[Create a Java Stream to count duplicate element in ArrayList (4 answers using Streams,Loop)]
-
-= List of Topics
-
-1. link:core-java/java-stream-interview-question.adoc#Q2[Topic1]
-2. link:core-java/java-stream-interview-question.adoc#Q3[Topic23]
-3. link:core-java/java-stream-interview-question.adoc#Q4[Topic3]
+Q1. link:core-java/java-stream-interview-question.adoc#Q1[Create a Java Stream to count duplicate element in ArrayList (4 answers using Streams,Loop)]
+Q2. link:core-java/java-stream-interview-question.adoc#Q2[Topic1]
+Q3. link:core-java/java-stream-interview-question.adoc#Q3[Topic23]
+Q4. link:core-java/java-stream-interview-question.adoc#Q4[Topic3]
 
 ## Advance Experience (11 - 15 Years)
