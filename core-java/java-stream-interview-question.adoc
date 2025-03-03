@@ -18,7 +18,7 @@ for(int i=0;i<10;i++){
 ```
 
 [[Q2]]
-== Q2. Details of Topic 1 with example.
+== Create a Java Program to reverse a String
 
 [source,java]
 ----
@@ -26,7 +26,7 @@ System.out.println("Example for Topic 1");
 ----
 
 [[Q3]]
-== Topic2
+== Create a java program to Sort Employee Objects by first name then last name in ascending order.
 Details of Topic 2 with example.
 
 [source,java]
@@ -35,7 +35,7 @@ System.out.println("Example for Topic 2");
 ----
 
 [[Q4]]
-== Topic3
+== Create a java program to find
 Details of Topic 3 with example.
 
 [source,java]
