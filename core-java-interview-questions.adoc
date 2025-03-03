@@ -1,5 +1,6 @@
 = Core Java Interview Questions :
-:toc: right
+:toc:
+:toc-title: Table of Contents
 
 == Java 8 : Streams
 
