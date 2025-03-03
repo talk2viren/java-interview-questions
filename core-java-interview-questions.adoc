@@ -10,8 +10,8 @@ Q1. link:core-java/java-stream-interview-question.adoc#topic1[Create a Java Stre
 
 = List of Topics
 
-1. link:core-java/java-stream-interview-question.adoc#topic1[Topic1]
-2. link:core-java/java-stream-interview-question.adoc#topic2[Topic2]
-3. link:core-java/java-stream-interview-question.adoc#topic3[Topic3]
+1. link:core-java/java-stream-interview-question.adoc#Q2[Topic1]
+2. link:core-java/java-stream-interview-question.adoc#Q3[Topic23]
+3. link:core-java/java-stream-interview-question.adoc#Q4[Topic3]
 
 ## Advance Experience (11 - 15 Years)
