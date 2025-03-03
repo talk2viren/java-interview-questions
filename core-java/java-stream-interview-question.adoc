@@ -1,13 +1,13 @@
 = Java Streams Interview Question
 
 [[Q1]]
-== . Create a Java Stream to count duplicate element in ArrayList (4 answers using Streams,Loop)
+== Create a Java Stream to count duplicate element in ArrayList (4 answers using Streams,Loop)
 ....
 Input : {"apple","mango","banana","banana","kivi"}
 Output : apple = 1, mango=1, banana=2, kivi=1
 ....
 
-Solution : Link contains 4 ways Streams
+=== Solution : Link contains Option 1
 
 ```java
 
@@ -16,6 +16,27 @@ for(int i=0;i<10;i++){
 }
 
 ```
+
+=== Solution : Link contains Option 2
+
+```java
+
+for(int i=0;i<10;i++){
+    System.out.println("insdie code >> "+i);
+}
+
+```
+
+=== Solution : Link contains Option 3
+
+```java
+
+for(int i=0;i<10;i++){
+    System.out.println("insdie code >> "+i);
+}
+
+```
+
 
 [[Q2]]
 == Create a Java Program to reverse a String
