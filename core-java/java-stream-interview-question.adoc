@@ -1,5 +1,6 @@
 = Java Streams Interview Question
 
+:sectnums:
 [[Q1]]
 == Create a Java Stream to count duplicate element in ArrayList (4 answers using Streams,Loop)
 ....
@@ -7,7 +8,7 @@ Input : {"apple","mango","banana","banana","kivi"}
 Output : apple = 1, mango=1, banana=2, kivi=1
 ....
 
-=== Solution : Link contains Option 1
+=== Solution 1 : Link contains Option 1
 
 ```java
 
@@ -37,7 +38,7 @@ for(int i=0;i<10;i++){
 
 ```
 
-
+:sectnums:
 [[Q2]]
 == Create a Java Program to reverse a String
 
@@ -45,7 +46,7 @@ for(int i=0;i<10;i++){
 ----
 System.out.println("Example for Topic 1");
 ----
-
+:sectnums:
 [[Q3]]
 == Create a java program to Sort Employee Objects by first name then last name in ascending order.
 Details of Topic 2 with example.
@@ -54,7 +55,7 @@ Details of Topic 2 with example.
 ----
 System.out.println("Example for Topic 2");
 ----
-
+:sectnums:
 [[Q4]]
 == Create a java program to find
 Details of Topic 3 with example.
