@@ -1,4 +1,4 @@
-= Core Java Interview Questions :
+= Java 8 : Core Java Interview Questions
 
 == Java Lambda
 
