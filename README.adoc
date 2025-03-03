@@ -1,2 +1,2 @@
-= Core Java Interview Questions
+= Java Interview Questions
 . link:java-8-core-java-interview-questions
