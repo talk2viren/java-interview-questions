@@ -1,6 +1,4 @@
 = Core Java Interview Questions :
-:toc:
-// :toc-title: Table of Contents
 
 == Java Lambda
 
