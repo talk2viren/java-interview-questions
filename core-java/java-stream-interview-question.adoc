@@ -1,7 +1,7 @@
 = Java Streams Interview Question
 
 [[Q1]]
-== Create a Java Stream to count duplicate element in ArrayList (4 answers using Streams,Loop)
+== . Create a Java Stream to count duplicate element in ArrayList (4 answers using Streams,Loop)
 ....
 Input : {"apple","mango","banana","banana","kivi"}
 Output : apple = 1, mango=1, banana=2, kivi=1
