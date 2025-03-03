@@ -5,7 +5,7 @@
 == Java Streams
 . link:core-java/java-stream-interview-question.adoc#Q1[Create a Java Stream to count duplicate element in ArrayList]
 _(4 answers using Streams,Loop)_
-. link:core-java/java-stream-interview-question.adoc#Q2[Create a Java Program to reverse a String ]
+. link:core-java/java-stream-interview-question.adoc#[Create a Java Program to reverse a String ]
 . link:core-java/java-stream-interview-question.adoc#Q3[Create a java program to Sort Employee Objects by first name then last name in ascending order.]
 . link:core-java/java-stream-interview-question.adoc#Q4[Topic31]
 
