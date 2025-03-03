@@ -1,5 +1,5 @@
 = Core Java Interview Questions :
-:toc: left
+:toc: right
 
 == Java Streams :
 
