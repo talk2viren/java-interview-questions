@@ -3,6 +3,10 @@
 :sectnums:
 [[Q1]]
 == Create a Java Stream to count duplicate element in ArrayList (4 answers using Streams,Loop)
+
+.3 Examples
+[%collapsible]
+====
 ....
 Input : {"apple","mango","banana","banana","kivi"}
 Output : apple = 1, mango=1, banana=2, kivi=1
@@ -37,7 +41,7 @@ for(int i=0;i<10;i++){
 }
 
 ```
-
+====
 :sectnums:
 [[Q2]]
 == Create a Java Program to reverse a String
@@ -99,10 +103,16 @@ Example 3:
 == Create a java program to Sort Employee Objects by first name then last name in ascending order.
 Details of Topic 2 with example.
 
+.Examples
+[%collapsible]
+====
+
 [source,java]
 ----
 System.out.println("Example for Topic 2");
 ----
+
+====
 :sectnums:
 [[Q4]]
 == Find Non-Repeatable Character in String using java Streams and loop
