@@ -3,9 +3,8 @@
 :sectnums:
 [[Q1]]
 == Create a Java Stream to count duplicate element in ArrayList
-(4 answers using Streams,Loop)
 
-.3 Examples
+.4 Examples nswers using Streams,Loop
 [%collapsible]
 ====
 ....
@@ -117,11 +116,10 @@ System.out.println("Example for Topic 2");
 :sectnums:
 [[Q4]]
 == Find Non-Repeatable Character in String using java Streams and loop
-Details of Topic 4 with example.
 
 https://github.com/talk2viren/java-interview-questions-examples/blob/main/src/test/java/com/example/java_interview_questions/core/Examples1.java[Github Link]
 
-.Examples
+.4 Examples
 [%collapsible]
 ====
 
