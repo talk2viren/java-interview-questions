@@ -106,13 +106,12 @@ System.out.println("Example for Topic 2");
 == Find Non-Repeatable Character in String using java Streams and loop
 Details of Topic 3 with example.
 
-https://github.com/talk2viren/java-interview-questions-examples/blob/main/src/test/java/com/example/java_interview_questions/core/Example1.java[Github Link]
+https://github.com/talk2viren/java-interview-questions-examples/blob/main/src/test/java/com/example/java_interview_questions/core/Examples1.java[Github Link]
 
 [source,java]
 ----
     void findNonRepetableChar_1() {
-//        String input = "common";
-        String input = "swiss";
+        String input = "common";
 
         char charArray[] = input.toCharArray();
 
@@ -136,8 +135,7 @@ https://github.com/talk2viren/java-interview-questions-examples/blob/main/src/te
 [source,java]
 ----
     void findNonRepetableChar_2() {
-//        String input = "common";
-        String input = "swiss";
+        String input = "common";
 
         char charArray[] = input.toCharArray();
 
@@ -158,8 +156,7 @@ https://github.com/talk2viren/java-interview-questions-examples/blob/main/src/te
 [source,java]
 ----
     void findNonRepetableChar_3() {
-//        String input = "common";
-        String input = "swiss";
+        String input = "common";
 
         char charArray[] = input.toCharArray();
 
