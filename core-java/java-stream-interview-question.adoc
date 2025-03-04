@@ -108,6 +108,11 @@ Details of Topic 3 with example.
 
 https://github.com/talk2viren/java-interview-questions-examples/blob/main/src/test/java/com/example/java_interview_questions/core/Examples1.java[Github Link]
 
+[%collapsible]
+====
+
+Option 1 :
+
 [source,java]
 ----
     void findNonRepetableChar_1() {
@@ -132,6 +137,7 @@ https://github.com/talk2viren/java-interview-questions-examples/blob/main/src/te
     }
 ----
 
+Option 2 :
 [source,java]
 ----
     void findNonRepetableChar_2() {
@@ -153,6 +159,7 @@ https://github.com/talk2viren/java-interview-questions-examples/blob/main/src/te
     }
 ----
 
+Option 3 :
 [source,java]
 ----
     void findNonRepetableChar_3() {
@@ -172,7 +179,7 @@ https://github.com/talk2viren/java-interview-questions-examples/blob/main/src/te
     }
 ----
 
-
+Option 4 :
 [source,java]
 ----
     void findNonRepetableChar_4() {
@@ -189,3 +196,5 @@ https://github.com/talk2viren/java-interview-questions-examples/blob/main/src/te
     }
 
 ----
+
+====
