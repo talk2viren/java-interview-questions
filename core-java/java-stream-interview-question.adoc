@@ -101,7 +101,7 @@ Example 3:
 
 :sectnums:
 [[Q3]]
-== Create a java program to Sort Employee Objects by first name then last name in ascending order.=
+== Create a java program to Sort Employee Objects by first name then last name in ascending order.
 
 .2 Examples
 [%collapsible]
