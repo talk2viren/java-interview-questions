@@ -2,7 +2,8 @@
 
 :sectnums:
 [[Q1]]
-== Create a Java Stream to count duplicate element in ArrayList (4 answers using Streams,Loop)
+== Create a Java Stream to count duplicate element in ArrayList
+(4 answers using Streams,Loop)
 
 .3 Examples
 [%collapsible]
@@ -47,7 +48,8 @@ for(int i=0;i<10;i++){
 == Create a Java Program to reverse a String
 
 https://github.com/talk2viren/java-interview-questions-examples/blob/main/src/test/java/com/example/java_interview_questions/streams/ReverseString.java[Github Link]
-.Examples
+
+.3 Examples
 [%collapsible]
 ====
 Example 1 :
@@ -100,10 +102,9 @@ Example 3:
 
 :sectnums:
 [[Q3]]
-== Create a java program to Sort Employee Objects by first name then last name in ascending order.
-Details of Topic 2 with example.
+== Create a java program to Sort Employee Objects by first name then last name in ascending order.=
 
-.Examples
+.2 Examples
 [%collapsible]
 ====
 
