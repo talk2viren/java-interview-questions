@@ -43,7 +43,9 @@ for(int i=0;i<10;i++){
 == Create a Java Program to reverse a String
 
 https://github.com/talk2viren/java-interview-questions-examples/blob/main/src/test/java/com/example/java_interview_questions/streams/ReverseString.java[Github Link]
-
+.Examples
+[%collapsible]
+====
 Example 1 :
 [source,java]
 ----
@@ -90,7 +92,7 @@ Example 3:
         System.out.println(builder);
     }
 ----
-
+====
 
 :sectnums:
 [[Q3]]
@@ -104,10 +106,11 @@ System.out.println("Example for Topic 2");
 :sectnums:
 [[Q4]]
 == Find Non-Repeatable Character in String using java Streams and loop
-Details of Topic 3 with example.
+Details of Topic 4 with example.
 
 https://github.com/talk2viren/java-interview-questions-examples/blob/main/src/test/java/com/example/java_interview_questions/core/Examples1.java[Github Link]
 
+.Examples
 [%collapsible]
 ====
 
